@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Ally
+  - LightGrunt
+  - Arrow
+  - Hacked
+  - SpecialArrow
+  - MiddleBot
+  - Volley
+  - HackedVolley
+  - LowHealing
+  - HighHealing
+  - Wall
+  - AfterImage
+  - PlayerDeath
+  - Audio
+  - Bow
+  - NextLevelZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Arrow
+  - Ally
+  - SpecialArrow
+  - Volley
+  - HackedVolley
+  - PlayerDash
+  - LowHealing
+  - HighHealing
+  - WallLayer
+  - Ground
+  - BowLayer
+  - TutorialLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
